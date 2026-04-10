@@ -1,0 +1,15 @@
+{
+  "file_id": "6cf8600c-d563-4d17-bdb6-a15b99b844e7",
+  "filename": "sample.csv",
+  "total_chunks": 1,
+  "chunk_size": 1048576,
+  "created_at": "2026-04-10T22:00:41.019582+00:00",
+  "updated_at": "2026-04-10T22:00:41.026817+00:00",
+  "owner": "alice",
+  "acl": {
+    "alice": "owner"
+  },
+  "chunk_status": [
+    "present"
+  ]
+}

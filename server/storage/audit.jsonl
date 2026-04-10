@@ -1,0 +1,9 @@
+{"timestamp": "2026-04-10T21:56:02.984203+00:00", "event": "LOGIN_FAILED", "username": "alice", "ip": "127.0.0.1", "file_id": null, "chunk_index": null, "details": {}}
+{"timestamp": "2026-04-10T21:56:51.691540+00:00", "event": "LOGIN_FAILED", "username": "alice", "ip": "127.0.0.1", "file_id": null, "chunk_index": null, "details": {}}
+{"timestamp": "2026-04-10T21:58:30.296484+00:00", "event": "LOGIN_FAILED", "username": "alice", "ip": "127.0.0.1", "file_id": null, "chunk_index": null, "details": {}}
+{"timestamp": "2026-04-10T22:00:05.197142+00:00", "event": "USER_REGISTERED", "username": "alice", "ip": "127.0.0.1", "file_id": null, "chunk_index": null, "details": {}}
+{"timestamp": "2026-04-10T22:00:29.479113+00:00", "event": "LOGIN_SUCCESS", "username": "alice", "ip": "127.0.0.1", "file_id": null, "chunk_index": null, "details": {}}
+{"timestamp": "2026-04-10T22:00:41.019887+00:00", "event": "FILE_CREATED", "username": "alice", "ip": "127.0.0.1", "file_id": "6cf8600c-d563-4d17-bdb6-a15b99b844e7", "chunk_index": null, "details": {"filename": "sample.csv", "total_chunks": 1}}
+{"timestamp": "2026-04-10T22:00:41.027077+00:00", "event": "CHUNK_UPLOADED", "username": "alice", "ip": "127.0.0.1", "file_id": "6cf8600c-d563-4d17-bdb6-a15b99b844e7", "chunk_index": 0, "details": {"size_bytes": 40}}
+{"timestamp": "2026-04-10T22:01:39.564581+00:00", "event": "FILE_METADATA_READ", "username": "alice", "ip": "127.0.0.1", "file_id": "6cf8600c-d563-4d17-bdb6-a15b99b844e7", "chunk_index": null, "details": {}}
+{"timestamp": "2026-04-10T22:01:39.568789+00:00", "event": "CHUNK_DOWNLOADED", "username": "alice", "ip": "127.0.0.1", "file_id": "6cf8600c-d563-4d17-bdb6-a15b99b844e7", "chunk_index": 0, "details": {}}
